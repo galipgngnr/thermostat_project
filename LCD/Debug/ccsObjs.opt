@@ -1,0 +1,8 @@
+"./degisken.obj"
+"./main.obj"
+"./ADC_CONFIG/adc_init.obj"
+"./GPIO_CONFIG/gpio_config.obj"
+"./LCD_CONFIG/src/lcd_init.obj"
+"./fonksiyon/fonksiyon.obj"
+"../lnk_msp430fr4132.cmd"
+-llibc.a
